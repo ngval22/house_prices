@@ -1,6 +1,6 @@
 
 # House Prices
-Advanced Regression Techniques - [Kaggle Competition]("https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview")
+Advanced Regression Techniques - [Kaggle Competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 ## შესავალი
 -   კონკურსის მიზანია დააპროგნოზო, თუ რა ფასად გაიყიდება სახლი, როდესაც ამ სახლის შესახებ გარკვეული მახასიათებლები გაქვს მოცემული. მონაცემები ტაბულარულია. Training Set-ში მოცემულია წარსულში გაყიდული სახლების 1460 ნიმუში. თითოეულ ნიმუშში გვაქვს Features (სახლის აღწერილობა, სართული, კვადრატულობა, ქუჩის ტიპი და ბევრი სხვა დეტალი, რომლებიც თითქმის სრულად აღწერს სახლს) და Target (SalePrice). 
 ჩვენმა დატრენინგებულმა მოდელმა ახალ შემოსულ მახასიათებლების მიხედვით მაქსიმალურად სწორად უნდა "გამოიცნოს" თუ რამდენად გაიყიდება ეს სახლი.
